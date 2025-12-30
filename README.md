@@ -1,12 +1,17 @@
 # 💫 About Me:
 
+# 💫 About Me
+
 **Hi, I'm Vijay!** 👋 I bridge the gap between complex code and beautiful design.
 
+<div align="center">
+
 ### 🛠️ The Tech Stack
-| 🖥️ Backend | 🎨 Frontend | ⚙️ System |
-| :--- | :--- | :--- |
-| **Laravel** (PHP) | **Next.js** | **Automation** |
-| SaaS Architecture | React UI | AI Integration |
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,git" />
+</a>
+
+</div>
 
 ### 🚀 Currently...
 * ✅ **Building:** A robust Directory Service platform.
@@ -17,6 +22,9 @@
 > 💡 **Fun Fact:** I love the "Old Money" aesthetic and Stoic philosophy.
 >
 > **Got a project?** I'm open to collaborations on **SaaS** and **Laravel** packages!
+
+### 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KeshvalaVijay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Keshvala Vijay](https://www.facebook.com/profile.php?id=100016130446492)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keshvala_1118) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/keshvala-vijay-17ba6a327@) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Keshvala11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshvalavijay11@gmail.com) 
