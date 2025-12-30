@@ -1,5 +1,32 @@
 # 💫 About Me:
-<div align="center"><br><br># Hi, I'm Vijay.<br><br>### 🚀 Full Stack Engineer specializing in SaaS & Automation<br><br>I bridge the gap between complex backend logic and elegant user interfaces.<br>My work revolves around the **Laravel ecosystem**, **Next.js performance**, and **Data Automation**.<br><br>---<br><br>**What I bring to the table:**<br><br>**01. SaaS Architecture**<br>Deep experience setting up and modifying multi-tenant environments and business resource tools.<br><br>**02. Custom UI/UX**<br>Transforming standard dashboards into modern, responsive interfaces with a focus on clean design.<br><br>**03. Advanced Integrations**<br>Implementing secure messaging APIs, payment gateways, and generative AI models.<br><br>---<br><br>[ < PHP > ]   [ < JavaScript > ]   [ < Next Js > ]<br><br></div>
+<div align="center">
+
+# Vijay Keshvala
+
+**Architecting SaaS Platforms & Automating Intelligence**
+
+<br>
+
+</div>
+
+| **🏛️ The Backend (Core)** | **🎨 The Frontend (Visual)** |
+| :--- | :--- |
+| **SaaS Architecture**<br>Specializing in multi-tenant setups and complex business logic (ERPGo, WorkDo). | **Modern UI/UX**<br>Refining dashboards with Shadcn-style aesthetics and clean design principles. |
+| **Data Automation**<br>Building high-performance scrapers and automated pipelines. | **Next.js Performance**<br>Creating reactive, fast-loading interfaces that feel seamless. |
+
+<br>
+
+<div align="center">
+
+### ⚡ Technical Arsenal
+
+`Laravel` `PHP` `Next.js` `Automation` `Generative AI`
+
+<br>
+
+> *"Waste no more time arguing about what a good code should be. Write one."*
+
+</div>
 
 
 ## 🌐 Socials:
