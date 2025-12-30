@@ -1,15 +1,20 @@
 # 💫 About Me:
 
-# 💫 About Me
 
 **Hi, I'm Vijay!** 👋 I bridge the gap between complex code and beautiful design.
 
 <div align="center">
+  <h3>🛠️ The Tech Stack</h3>
+  
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  
+  <br>
 
-### 🛠️ The Tech Stack
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,git" />
-</a>
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![SaaS](https://img.shields.io/badge/SaaS-Focus-success?style=for-the-badge)
+  ![Automation](https://img.shields.io/badge/Automation-Power-blue?style=for-the-badge)
 
 </div>
 
