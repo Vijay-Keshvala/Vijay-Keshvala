@@ -24,7 +24,7 @@
 * ✅ **Securing:** API keys & Data pipelines.
 
 ### 🤝 Interaction
-> 💡 **Fun Fact:** I love the "Old School" aesthetic and Stoic philosophy.
+> 💡 **Fun Fact:** I love Stoic philosophy.
 >
 > **Got a project?** I'm open to collaborations on **SaaS** and **Laravel** packages!
 
